@@ -51,7 +51,7 @@ I love building cool projects, solving real-world problems with code, and contin
 
 [![Music Site](https://img.shields.io/badge/Live%20Now-Music%20Website-ff69b4?style=for-the-badge&logo=spotify&logoColor=white)](https://dfordivyansh.github.io/SYNC-Interns-Task-3/)
 
-<img src="https://media.giphy.com/media/26FPpP8BtFq4WfJSo/giphy.gif" width="400" alt="Music Vibes GIF" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWM1bTR2b2NyY20yNmFrN3J6cTlpZjY3bDd5MWMzeGFmNmhwN2cydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tqfS3mgQU28ko/giphy.gif" width="400" alt="Music Vibes GIF" />
 
 A sleek, responsive music player website built with HTML, CSS, and JavaScript. It features:
 - 🎶 Play, Pause, Skip functionality  
