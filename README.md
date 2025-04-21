@@ -47,13 +47,19 @@ I love building cool projects, solving real-world problems with code, and contin
 
 ---
 
-## 🎮 Mini Game Zone
+## 🎧 My Music Website – [TuneWave 🎵](https://divyanshsrivastava7.github.io/music-website)
 
-Want to take a break? Try my mini game hosted on GitHub Pages!
+[![Music Site](https://img.shields.io/badge/Live%20Now-Music%20Website-ff69b4?style=for-the-badge&logo=spotify&logoColor=white)](https://divyanshsrivastava7.github.io/music-website)
 
-[![Play Snake](https://img.shields.io/badge/Play--Snake-00FF00?style=for-the-badge&logo=gnubash)](https://dfordivyansh.github.io/snake-game)
+<img src="https://media.giphy.com/media/26FPpP8BtFq4WfJSo/giphy.gif" width="400" alt="Music Vibes GIF" />
 
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300" alt="Snake Game Preview" />
+A sleek, responsive music player website built with HTML, CSS, and JavaScript. It features:
+- 🎶 Play, Pause, Skip functionality  
+- 🎨 Stylish UI with smooth animations  
+- 🔊 Volume Control and Seekbar  
+- 📱 Mobile Responsive Design  
+
+> Check it out and vibe with the beats!
 
 
 ## 📫 Let's Connect
