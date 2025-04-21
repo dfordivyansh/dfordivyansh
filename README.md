@@ -47,6 +47,15 @@ I love building cool projects, solving real-world problems with code, and contin
 
 ---
 
+## 🎮 Mini Game Zone
+
+Want to take a break? Try my mini game hosted on GitHub Pages!
+
+[![Play Snake](https://img.shields.io/badge/Play--Snake-00FF00?style=for-the-badge&logo=gnubash)](https://divyanshsrivastava7.github.io/snake-game)
+
+<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300" alt="Snake Game Preview" />
+
+
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/divyanshsrivastava1)
