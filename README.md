@@ -51,7 +51,7 @@ I love building cool projects, solving real-world problems with code, and contin
 
 Want to take a break? Try my mini game hosted on GitHub Pages!
 
-[![Play Snake](https://img.shields.io/badge/Play--Snake-00FF00?style=for-the-badge&logo=gnubash)](https://divyanshsrivastava7.github.io/snake-game)
+[![Play Snake](https://img.shields.io/badge/Play--Snake-00FF00?style=for-the-badge&logo=gnubash)](https://dfordivyansh.github.io/snake-game)
 
 <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="300" alt="Snake Game Preview" />
 
