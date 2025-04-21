@@ -49,7 +49,7 @@ I love building cool projects, solving real-world problems with code, and contin
 
 ## 🎧 My Music Website – [TuneWave 🎵](https://divyanshsrivastava7.github.io/music-website)
 
-[![Music Site](https://img.shields.io/badge/Live%20Now-Music%20Website-ff69b4?style=for-the-badge&logo=spotify&logoColor=white)](https://divyanshsrivastava7.github.io/music-website)
+[![Music Site](https://img.shields.io/badge/Live%20Now-Music%20Website-ff69b4?style=for-the-badge&logo=spotify&logoColor=white)](https://dfordivyansh.github.io/SYNC-Interns-Task-3/)
 
 <img src="https://media.giphy.com/media/26FPpP8BtFq4WfJSo/giphy.gif" width="400" alt="Music Vibes GIF" />
 
