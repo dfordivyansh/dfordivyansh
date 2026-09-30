@@ -2,9 +2,7 @@
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hey there! I'm **Divyansh Srivastava**, a passionate **Software Developer** and a **Final Year B.Tech CSE (AI & ML)** student at **ITM GIDA**.
-
-I love building cool projects, solving real-world problems with code, and continuously learning new technologies. I'm currently working as a **Web Development Intern at Mittal Allience**, and have experience in both **frontend and backend development**.
+Hey there! I'm **Divyansh Srivastava**,
 
 ---
 
